@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @Clueless-Tatsu
-  
-- 👀 I’m interested in ... learning a whole lot! I am a CS Student, currently.
+¡Buenas!
 
-- 📫 How to reach me ... Bluesky (@cluelesstatsu.bsky.social) is likely your best bet.
+Languages I am somewhat familiar with:
+ * Python
+ * Java
+Languages I am less familiar with but can work with:
+ * C++
+ * PHP
 
--  😄 Pronouns: ... They/Them
-  
-- ⚡ Fun fact: ... the animal with the smallest brain is likely the nematode worm Caenorhabditis elegans. However, it is likely that record is beaten by yours truly.
-
-<!---
-Clueless-Tatsu/Clueless-Tatsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Want or need to reach me?
+ * @CluelessTatsu on Discord (Most preferred!)
+ * @cluelesstatsu.bsky.social on Bluesky
+ * @cluelesstatsu on Instagram
